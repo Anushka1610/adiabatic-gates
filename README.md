@@ -1,6 +1,8 @@
 # Adiabatic Gates
 Coverting adiabatic equantions to quantum circuits.
-The main code is in `qc_generalied.py`
+The main code is in `qc_generalied.py`.
+
+Implements "Gates for Adiabatic Quantum Computing" ([Warren](https://arxiv.org/abs/1405.2354))
 
 ## How to run
 1.  Run the provided python code (`qc_generalized.py`) in an environment with pandas, qiskit and matplotlib.
