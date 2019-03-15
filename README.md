@@ -1,3 +1,4 @@
+![full adder](img/full_adder.png)
 # Adiabatic Gates
 Coverting adiabatic equantions to quantum circuits.
 The main code is in `qc_generalied.py`.
